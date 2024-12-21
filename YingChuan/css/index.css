@@ -165,7 +165,7 @@ ul{
 footer{
     color: #ccc;
     width: 100%;
-    background-image: url('../images/footbg.jpg');
+    background-image: url(../images/footbg.jpg);
     padding: 20px;
     display: flex;
     justify-content: center;
